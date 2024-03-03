@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the 1.2file
+=======
+this is the file
+>>>>>>> f04581d96cd82efe925e98e316cebd7163a7fcef
